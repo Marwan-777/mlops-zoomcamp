@@ -1,1 +1,1 @@
-These notebooks were built and ran in a cloud VM instance 
+These notebooks were built and ran on a cloud VM instance 
