@@ -1,0 +1,5 @@
+tpe -> tree-structured parzen estimator
+
+hyperopt -> hyperparameter optimization library
+
+fmin() -> minimize an objective function over a hyperparameter space
